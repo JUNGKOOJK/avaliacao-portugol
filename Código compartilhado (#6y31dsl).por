@@ -1,4 +1,4 @@
-// Nome completo [Dylan Simon Silva Hidalgo]
+// Nome completo [MARIA]
 /*
  * Objetivo do programa
  * Este programa automatiza a bilheteira de um cinema. Ele valida se o cliente 
